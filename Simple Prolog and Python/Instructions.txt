@@ -1,0 +1,3 @@
+1. Run main_script
+2. Once the app asks you to enter a question, type in your query.
+3. Note that the app will only accept questions in valid format (e.g. the Question Prompts from the Machine Project instruction pdf file.) If the Question misses 1 word from the format, it will return "Invalid Format"

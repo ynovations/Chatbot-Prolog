@@ -1,0 +1,22 @@
+Questions:
+Who are the parents of Bobby?
+Who is the father of Bobby?
+Who is the mother of Bobby?
+Who are the parents of Alex?
+Are Amy and Jack the parents of Alex?
+Who are the parents of Shasha?
+Who is the father of Hobby?
+Who are the parents of Hobby?
+
+Statement:
+Brody is the father of Bobby.
+Jasminez is the mother of Bobby.
+Bobby and Hobby are siblings.
+Shasha is a sister of Bobby.
+Hobby is a brother of Bobby.
+Brody and Jasminez are the parents of Bobby.
+Flory is a grandmother of Bobby.
+Florian is a grandfather of Bobby.
+Bobby is a child of Brody.
+Bobby, Hobby, and Shasha are children of Brody.
+Shasha is a daughter of Brody.
